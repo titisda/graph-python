@@ -11,6 +11,7 @@
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
 import sys
+import os
 from pathlib import Path
 
 sys.path.insert(0, str(Path("..").resolve()))
